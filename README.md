@@ -88,9 +88,6 @@ I'm actively looking for data science, ML engineering, or analytics engineering 
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rheagupta31&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=rheagupta31&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="Trophies" />
 
 </div>
 
