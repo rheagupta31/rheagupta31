@@ -82,7 +82,7 @@ I'm actively looking for data science, ML engineering, or analytics engineering 
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=rheagupta31&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=rheagupta31&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 <br/><br/>
 
@@ -90,7 +90,7 @@ I'm actively looking for data science, ML engineering, or analytics engineering 
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=rheagupta31&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=10" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=rheagupta31&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="Trophies" />
 
 </div>
 
