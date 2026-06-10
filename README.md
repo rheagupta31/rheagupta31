@@ -9,7 +9,7 @@
 <br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rheagupta31-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rheagupta31/)
-[![Medium](https://img.shields.io/badge/Medium-@rheagupta31-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@rheagupta31)
+[![Medium](https://img.shields.io/badge/Medium-@rheagupta993-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@rheagupta993)
 [![Email](https://img.shields.io/badge/Email-rheavinod.gupta@rutgers.edu-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rheavinod.gupta@rutgers.edu)
 [![GitHub](https://img.shields.io/badge/GitHub-rheagupta31-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rheagupta31)
 
@@ -36,7 +36,7 @@ I'm actively looking for data science, ML engineering, or analytics engineering 
 | 🥇 **RAISE Finalist** | LLM-Powered Sentiment Engine with BERT & Prompt Engineering — Feb 2025 |
 | 📄 **IEEE Published** | Institutional Accreditation Data Analysis and Decision-Making System |
 | 🏅 **World Happiness Prediction** | Best Performer — Dec 2024 |
-| ✍️ **Writing on Medium** | SQL, Data Science & LLMs → [medium.com/@rheagupta31](https://medium.com/@rheagupta31) |
+| ✍️ **Writing on Medium** | SQL, Data Science & LLMs → [medium.com/@rheagupta993](https://medium.com/@rheagupta993) |
 
 ---
 
@@ -162,7 +162,7 @@ If you're working on something in data science, ML, or analytics — or you're h
 
 <div align="center">
 
-**[rheavinod.gupta@rutgers.edu](mailto:rheavinod.gupta@rutgers.edu)** &nbsp;·&nbsp; **[LinkedIn](https://www.linkedin.com/in/rheagupta31/)** &nbsp;·&nbsp; **[Medium](https://medium.com/@rheagupta31)**
+**[rheavinod.gupta@rutgers.edu](mailto:rheavinod.gupta@rutgers.edu)** &nbsp;·&nbsp; **[LinkedIn](https://www.linkedin.com/in/rheagupta31/)** &nbsp;·&nbsp; **[Medium](https://medium.com/@rheagupta993)**
 
 <br/>
 
