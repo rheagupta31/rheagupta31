@@ -106,7 +106,7 @@ Fine-tuned BERT for multi-class sentiment classification with custom preprocessi
 
 ---
 
-### 🚌 [Rutgers Bus Network Optimization](https://github.com/rheagupta31/rutgers-bus-optimization)
+### 🚌 [Rutgers Bus Network Optimization](https://github.com/rheagupta31/Rutgers-Bus-Network-Optimization)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -134,7 +134,7 @@ End-to-end variance tracking across a $30M FY2024 media budget. Automated run-ra
 
 ---
 
-### 🧠 [Causal Impact of Growth Mindset on Student Achievement](https://github.com/rheagupta31/growth-mindset-causal-study)
+### 🧠 [Causal Impact of Growth Mindset on Student Achievement](https://github.com/rheagupta31/growth_mindset_causal_inference)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![Stats](https://img.shields.io/badge/Causal_Inference-6E40C9?style=flat-square&logoColor=white)
