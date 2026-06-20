@@ -29,14 +29,14 @@ I'm actively looking for data science, ML engineering, or analytics engineering 
 
 ---
 
-## 🏆 Recognition
+## Recognition
 
 | | |
 |---|---|
-| 🥇 **RAISE Finalist** | LLM-Powered Sentiment Engine with BERT & Prompt Engineering — Feb 2025 |
-| 📄 **IEEE Published** | Institutional Accreditation Data Analysis and Decision-Making System |
-| 🏅 **World Happiness Prediction** | Best Performer — Dec 2024 |
-| ✍️ **Writing on Medium** | SQL, Data Science & LLMs → [medium.com/@rheagupta993](https://medium.com/@rheagupta993) |
+| **RAISE Finalist** | LLM-Powered Sentiment Engine with BERT & Prompt Engineering — Feb 2025 |
+| **IEEE Published** | Institutional Accreditation Data Analysis and Decision-Making System |
+| **World Happiness Prediction** | Best Performer — Dec 2024 |
+| **Writing on Medium** | SQL, Data Science & LLMs → [medium.com/@rheagupta993](https://medium.com/@rheagupta993) |
 
 ---
 
