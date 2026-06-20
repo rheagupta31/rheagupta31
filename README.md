@@ -40,7 +40,7 @@ I'm actively looking for data science, ML engineering, or analytics engineering 
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 <div align="center">
 
