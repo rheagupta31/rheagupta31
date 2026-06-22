@@ -72,7 +72,7 @@ I'm actively looking for data science, ML engineering, or analytics engineering 
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -143,7 +143,7 @@ Estimated the Average Treatment Effect (~+0.41) of a growth mindset intervention
 
 ---
 
-## 🔭 Currently building
+## Currently building
 
 ```
 ├── LLM agent architectures — tool use, memory, multi-step reasoning
@@ -153,7 +153,7 @@ Estimated the Average Treatment Effect (~+0.41) of a growth mindset intervention
 
 ---
 
-## 📬 Let's talk
+## Let's talk
 
 If you're working on something in data science, ML, or analytics — or you're hiring — I'd like to hear about it.
 
