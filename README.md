@@ -93,9 +93,9 @@ I'm actively looking for data science, ML engineering, or analytics engineering 
 
 ---
 
-## 📌 Projects
+## Projects
 
-### 🤖 [BERT Sentiment Engine](https://github.com/rheagupta31/bert-sentiment-engine)
+### [BERT Sentiment Engine](https://github.com/rheagupta31/bert-sentiment-engine)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logoColor=black)
@@ -106,7 +106,7 @@ Fine-tuned BERT for multi-class sentiment classification with custom preprocessi
 
 ---
 
-### 🚌 [Rutgers Bus Network Optimization](https://github.com/rheagupta31/Rutgers-Bus-Network-Optimization)
+### [Rutgers Bus Network Optimization](https://github.com/rheagupta31/Rutgers-Bus-Network-Optimization)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -116,7 +116,7 @@ Real-time route optimization system that cut bus clustering by ~35% on peak rout
 
 ---
 
-### 📊 [Media Budget Variance Dashboard](https://github.com/rheagupta31/media-budget-dashboard)
+### [Media Budget Variance Dashboard](https://github.com/rheagupta31/media-budget-dashboard)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
@@ -125,16 +125,16 @@ End-to-end variance tracking across a $30M FY2024 media budget. Automated run-ra
 
 ---
 
-### 🏦 [Fintech SQL Data Warehouse](https://github.com/rheagupta31/fintech-sql-warehouse)
+### [Fintech SQL Data Warehouse](https://github.com/rheagupta31/fintech-sql-warehouse)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![matplotlib](https://img.shields.io/badge/matplotlib-11557C?style=flat-square&logoColor=white)
 
-3-layer financial data warehouse built from scratch: raw ingestion → normalized schema → reporting mart. Includes a FICO-style credit scoring engine, rule-based fraud detection system, and a 6-panel analytics dashboard across 50 synthetic customers.
+3-layer financial data warehouse built from scratch: raw ingestion → normalized schema → reporting mart. Includes a FICO-style credit scoring engine, a rule-based fraud detection system, and a 6-panel analytics dashboard across 50 synthetic customers.
 
 ---
 
-### 🧠 [Causal Impact of Growth Mindset on Student Achievement](https://github.com/rheagupta31/growth_mindset_causal_inference)
+### [Causal Impact of Growth Mindset on Student Achievement](https://github.com/rheagupta31/growth_mindset_causal_inference)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![Stats](https://img.shields.io/badge/Causal_Inference-6E40C9?style=flat-square&logoColor=white)
