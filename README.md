@@ -2,11 +2,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Rhea+Gupta+%F0%9F%91%8B;Data+Scientist+%26+ML+Engineer;IEEE+Published+%C2%B7+RAISE+Finalist;Turning+messy+data+into+clear+decisions" alt="Typing SVG" />
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=rheagupta31&color=6E40C9&style=flat-square&label=Profile+Views" alt="profile views" />
-
-<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rheagupta31-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rheagupta31/)
 [![Medium](https://img.shields.io/badge/Medium-@rheagupta993-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@rheagupta993)
@@ -19,11 +14,11 @@
 
 ## About me
 
-I'm a Data Scientist and ML Engineer, recently finished my M.S. in Data Science at Rutgers. My work spans the full pipeline — designing ETL systems, fine-tuning ML models, running causal inference studies, and building dashboards that non-technical stakeholders can actually use and trust.
+I'm a Data Scientist and ML Engineer, and I recently finished my M.S. in Data Science at Rutgers. My work spans the full pipeline — designing ETL systems, fine-tuning ML models, running causal inference studies, and building dashboards that non-technical stakeholders can actually use and trust.
 
-While finishing my degree, I taught Python, SQL, and ML to 50+ students at City College of New York. Explaining complex systems to people who are new to them sharpens your own understanding fast.
+While finishing my degree, I taught Python, SQL, and ML to 120+ students at City College of New York. Explaining complex systems to people who are new to them sharpens your own understanding fast.
 
-I'm actively looking for data science, ML engineering, or analytics engineering roles — ideally somewhere the problems are hard and the data is messy.
+I'm actively looking for data science, ML engineering, or analytics engineering roles — ideally somewhere the problems are hard, and the data is messy.
 
 📍 New York City &nbsp;·&nbsp; Open to hybrid and remote
 
