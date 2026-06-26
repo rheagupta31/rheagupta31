@@ -142,7 +142,26 @@ End-to-end variance tracking across a $30M FY2024 media budget. Automated run-ra
 Estimated the Average Treatment Effect (~+0.41) of a growth mindset intervention using OLS regression, Propensity Score Matching, and Inverse Probability Weighting. Validated assumptions through covariate balance, overlap, and ignorability checks.
 
 ---
-
+## Writing on Medium
+ 
+I document what I'm learning as I build — currently working through AWS infrastructure from the ground up. The goal is practical clarity: what each service actually does, when to use it, and how the pieces connect.
+ 
+**AWS Series** &nbsp;·&nbsp; ongoing
+ 
+| Article | |
+|---|---|
+| [AWS Complete Beginner to Advanced Guide (2026)](https://medium.com/@rheagupta993/amazon-web-services-aws-complete-beginner-to-advanced-guide-2026-1fd1ec33e024) | Pinned · full roadmap |
+| [Amazon Aurora](https://medium.com/@rheagupta993/amazon-aurora-c8040ed05368) | When RDS isn't enough |
+| [Amazon RDS: Managed Relational Databases on AWS](https://medium.com/@rheagupta993/amazon-rds-managed-relational-databases-on-aws-ae4799e725c3) | Setup, config, and tradeoffs |
+| [AWS RDS vs Aurora](https://medium.com/@rheagupta993/aws-rds-vs-aurora-5ba28e5e3cac) | Side-by-side comparison |
+| [What is Amazon Redshift?](https://medium.com/@rheagupta993/what-is-amazon-redshift-e4d738249fc7) | Data warehousing on AWS |
+| [Amazon ElastiCache](https://medium.com/@rheagupta993/amazon-elasticache-95b92e25ff9d) | In-memory caching at scale |
+| [Introduction to Amazon VPC](https://medium.com/@rheagupta993/introduction-to-amazon-virtual-private-cloud-07584c704e95) | Networking fundamentals |
+| [How to Create a Custom VPC in AWS](https://medium.com/@rheagupta993/how-to-create-a-custom-vpc-in-aws-38c57fe59577) | Step-by-step walkthrough |
+ 
+&nbsp;&nbsp;→ **[All articles on Medium](https://medium.com/@rheagupta993)**
+ 
+---
 ## Currently building
 
 ```
@@ -172,5 +191,10 @@ If you're working on something in data science, ML, or analytics — or you're h
 </picture>
 
 <sub>Based in New York City · Open to hybrid and remote roles</sub>
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=rheagupta31&color=6E40C9&style=flat-square&label=Profile+Views" alt="profile views" />
+
+<br/><br/>
 
 </div>
