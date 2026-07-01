@@ -68,6 +68,11 @@ I'm actively looking for data science, ML engineering, or analytics engineering 
 ---
 
 ## GitHub Stats
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rheagupta31&theme=tokyonight" height="170" />
+&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rheagupta31&theme=tokyonight" height="170" />
+
+
 
 <div align="center">
 <img src="https://github-readme-stats-rheagupta31.vercel.app/api?username=rheagupta31&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github" height="170" />
