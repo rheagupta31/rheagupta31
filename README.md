@@ -70,7 +70,9 @@ I'm actively looking for data science, ML engineering, or analytics engineering 
 ## GitHub Stats
 
 <div align="center">
-[![Rhea's GitHub stats](https://github-stats-extended.vercel.app/api?username=rheagupta31)](https://github.com/stats-organization/github-stats-extended)
+<img src="https://github-readme-stats-rheagupta31.vercel.app/api?username=rheagupta31&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github" height="170" />
+
+<img src="https://github-readme-stats-rheagupta31.vercel.app/api/top-langs/?username=rheagupta31&layout=compact&hide_border=true&theme=tokyonight&langs_count=8&hide=jupyter%20notebook" height="170" />
 <img src="https://github-readme-stats.vercel.app/api?username=rheagupta31&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github" height="170" />
 &nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rheagupta31&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" height="170" />
