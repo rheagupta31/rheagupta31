@@ -78,10 +78,6 @@ I'm actively looking for data science, ML engineering, or analytics engineering 
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=rheagupta31&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<br/><br/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rheagupta31&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 
 
